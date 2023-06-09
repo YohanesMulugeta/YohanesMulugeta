@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yohanes Mulugeta
-- 👀 I’m interested in web development with React and Node(Express)
+- 👀 I’m interested in AI integration with Langchian to webs with Node(Express)
 - 🌱 Always learning new things.
-- 👻 Fun fact you didn't know: programming conributes a lot to global cabon emmission!
+- 👻 Fun fact you didn't know: programming conributes a lot to global carbon emmission!
 - 📫 How to reach me email- yohanesmulugeta21@gmail.com   
      phone- +251 915 091 781
 <!---
