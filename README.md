@@ -12,9 +12,9 @@
 
 Passionate about shaping the digital landscape, I bring over 6 years of expertise to the table. My primary focus revolves around LLM integration, ChatBot building, and the development of cutting-edge AI SaaS websites. Proficient in various LLM integration frameworks like LangChain, Vectore databases like PineconeDB, and LLM models like OpenAI and Huggingface. I am committed to crafting modern, responsive web applications that seamlessly blend innovation with user-centric design principles. Let's embark on a journey to create intelligent, engaging solutions together!
 
-## GitHub Stats
+## Total Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YohanesMulugeta&show_icons=true)
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YohanesMulugeta&theme=github_dark)
 
 ## Most Used Languages
 
@@ -32,10 +32,6 @@ Passionate about shaping the digital landscape, I bring over 6 years of expertis
 ![TypeScript](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=typescript)
 
 <!-- Add more badges for other technologies -->
-
-## Total Contributions
-
-![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YohanesMulugeta&theme=github_dark)
 
 ## GitHub Streaks
 
