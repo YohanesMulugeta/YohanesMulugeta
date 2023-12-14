@@ -1,10 +1,50 @@
-- 👋 Hi, I’m Yohanes Mulugeta
-- 👀 I’m interested in AI integration and AI ChatBot development with NODE and React
-- 🌱 Always learning new things.
-- 👻 Fun fact you didn't know: programming contributes a lot to global carbon emission!
-- 📫 How to reach me email- yohanesmulugeta21@gmail.com   
-     phone- +251 915 091 781
-<!---
-YohanesMulugeta/YohanesMulugeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Image](https://i.imgur.com/Bd44LFn.png)
+
+# Hello, I'm Yishak Abrham 👋
+
+- 👨‍💻 Software Engineer
+- 🌐 Web Developer
+- 📚 Lifelong Learner
+
+## This is my new Github account
+
+![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+🚀 Experienced Full-Stack(React-Node) Web Developer
+
+Passionate about shaping the digital landscape, I bring over 6 years of expertise to the table. My primary focus revolves around LLM integration, ChatBot building, and the development of cutting-edge AI SaaS websites. Proficient in various LLM integration frameworks like LangChain, Vectore databases like PineconeDB, and LLM models like OpenAI and Huggingface. I am committed to crafting modern, responsive web applications that seamlessly blend innovation with user-centric design principles. Let's embark on a journey to create intelligent, engaging solutions together!
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YohanesMulugeta&show_icons=true)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanesMulugeta&layout=compact)
+
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=javascript)
+
+[![Tech Stack](https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Tech Stack](https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Tech Stack](https://img.shields.io/badge/Backend-Express.js-green?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![Tech Stack](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+
+![TypeScript](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=typescript)
+
+<!-- Add more badges for other technologies -->
+
+## Total Contributions
+
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YohanesMulugeta&theme=github_dark)
+
+## GitHub Streaks
+
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=YohanesMulugeta&currStreakLabel=4395DD&ring=4395DD&currStreakNum=4395DD&sideNums=4395DD&dates=4395DD)
+
+What I bring to the table
+🔭 Strong knowledge of [LLM Integration, AI SaaS Applications, AI websites, React, and node.js]
+👯 Strong problem-solving skills and ability to work collaboratively with team members
+💬 Let's connect
+📫 If you're interested in working with me or just want to chat, feel free to
