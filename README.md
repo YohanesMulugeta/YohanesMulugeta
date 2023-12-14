@@ -1,7 +1,7 @@
 # Hello, Yohanes Mulugeta 👋
 
 - 👨‍💻 Software Engineer
-- 🌐 Web Developer
+- 🌐 Full-Stack Web Developer(LLM Integration Specialist)
 - 📚 Lifelong Learner
 
 ## This is my new Github account
