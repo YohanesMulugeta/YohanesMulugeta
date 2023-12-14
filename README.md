@@ -4,7 +4,7 @@
 - 🌐 Full-Stack Web Developer(LLM Integration Specialist)
 - 📚 Lifelong Learner
 
-## This is my new Github account
+## This is my Github account
 
 ![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
