@@ -1,4 +1,4 @@
-# Hello, Yohanes Mulugeta 👋
+# Hello, I am Yohanes Mulugeta 👋
 
 - 👨‍💻 Software Engineer
 - 🌐 Full-Stack Web Developer(LLM Integration Specialist)
