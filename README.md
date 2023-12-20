@@ -6,8 +6,6 @@
 
 ## This is my Github account
 
-![Alt Text](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
 🚀 Full Stack Developer | AI Chatbot and Integration Specialist
 
 Passionate about shaping the digital landscape, I bring over 6 years of expertise to the table. My primary focus revolves around LLM integration, ChatBot building, and the development of cutting-edge AI SaaS websites. Proficient in various LLM integration frameworks like LangChain, Vectore databases like PineconeDB, and LLM models like OpenAI and Huggingface. I am committed to crafting modern, responsive web applications that seamlessly blend innovation with user-centric design principles. Let's embark on a journey to create intelligent, engaging solutions together!
