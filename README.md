@@ -4,7 +4,7 @@
 - 🌐 Full-Stack Web Developer(LLM Integration Specialist)
 - 📚 Lifelong Learner
 
-## This is my Github account
+## Profile
 
 🚀 Full Stack Developer | AI Chatbot and Integration Specialist
 
