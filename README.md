@@ -1,6 +1,6 @@
 # Hello, I am Yohanes Mulugeta 👋
 
-- 👨‍💻 Software Engineer
+- 👨‍💻 Senior Back End Engineer
 - 🌐 Full-Stack Web Developer(LLM Integration Specialist and Backend Nodejs engineer)
 - 📚 Lifelong Learner
 
