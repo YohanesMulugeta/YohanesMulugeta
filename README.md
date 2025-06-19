@@ -21,7 +21,8 @@ Passionate about shaping the digital landscape, I bring over 6 years of expertis
 ## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=java)
+
+![Spring Boot](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=springboot)
 [![Tech Stack](https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Tech Stack](https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![Tech Stack](https://img.shields.io/badge/Backend-Express.js-green?style=for-the-badge&logo=express)](https://expressjs.com/)
